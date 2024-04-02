@@ -4,13 +4,13 @@ This repository contains all information about the lectures, workshops and other
 
 ## Structure
 
-Please create a new repository for your homework submissions. Inside this repository, there should be a folder named `homeworks`. Within the `homeworks` folder, create a sub-folder with your first name and last name `firstName-lastName`. E.g. for a developer Mykhailo Melnyk the name would be `mykhailo-melnyk`. The Sub-folder should have the same name as a lecture name.
+Please create a new repository for your homework submissions. Inside this repository, there should be a folder named `homeworks`. The Sub-folder should have the same name as a lecture name.
 
 ## Pull Requests
 
 ### Naming
 
-Every branch in upstream must starts with a prefix that is based on user initials. For example, for a developer Mykhailo Melnyk prefix would be `mm-`. In case of prefix collisions in the future the common rule is to dive deeper into the last name, for example: `mmel-`.
+Every branch in upstream must starts with a prefix that is based on user initials. For example, for a developer Mykhailo Melnyk prefix would be `mm-`. In case of prefix collisions in the future the common rule is to dive deeper into the last name, for example: `mmel-`. Pattern for branch should be `mmel-{lecture_number}-{letcture_name}`. For example, `mmel-01-basics`.
 
 ### Reviews
 
