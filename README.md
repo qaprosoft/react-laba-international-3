@@ -19,6 +19,10 @@ Once PR is created you have to do the following things:
 - Assign your mentor as a reviewer
 - Ping the mentor about the PR ;)
 
+### Inviting Mentors
+
+Don't forget to invite your mentor(s) to your repository so they can access and review your work. You can invite them by going to your repository settings and adding them as collaborators.
+
 ## Lecture schedule.
 
 ### Block 1
