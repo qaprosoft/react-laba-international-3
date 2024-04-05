@@ -30,7 +30,7 @@ Don't forget to invite your mentor(s) to your repository so they can access and 
 | Day            | Theme                                                              | Homework                                      |
 | :------------- | :----------------------------------------------------------------- | :-------------------------------------------- |
 | April 2nd      | [Internet Basics](./lectures/01-basics/README.md)                  | [task 🔗](./lectures/01-basics/task.md)       |
-| April 5th      | Git                                                                | ---                                           |
+| April 5th      | [Git](./lectures/02-git/README.md)                                 | ---                                           |
 | April 9th      | HTML                                                               |                                               |
 | April 12th     | CSS Part 1                                                         |                                               |
 | April 16th     | CSS Part 2                                                         |                                               |
