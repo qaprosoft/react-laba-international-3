@@ -34,5 +34,5 @@ Don't forget to invite your mentor(s) to your repository so they can access and 
 | April 9th      | HTML                                                               |                                               |
 | April 12th     | CSS Part 1                                                         |                                               |
 | April 16th     | CSS Part 2                                                         |                                               |
-| July 16th-19th | Learning week                                                      | ---                                           |
-| July 22th-26th | First block exam                                                   | ---                                           |
+| April 16th-19th | Learning week                                                      | ---                                           |
+| April 22th-26th | First block exam                                                   | ---                                           |
