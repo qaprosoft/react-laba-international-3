@@ -14,8 +14,9 @@ Every branch in upstream must starts with a prefix that is based on user initial
 
 ### Pattern
 
-So, for each homework, you will need to create a Pull Request and use this pattern for the naming - [Homework #{number}] - {Lecture Name} by {Name Surname}
-For example [Homework #3] - HTML by Vitalii Melnyk
+So, for each homework, you will need to create a Pull Request and use this pattern for the naming -**[Homework #{number}]** - **{Lecture Name}** by **{Name Surname}**
+
+For example **[Homework #3] - HTML by Vitalii Melnyk**
 
 ### Reviews
 
