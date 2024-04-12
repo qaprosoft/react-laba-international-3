@@ -1,0 +1,257 @@
+/* CSS STYLES TYPES */
+/* .external-styles {
+	color: red;
+	background-color: blue;
+} */
+
+/* CSS SELECTORS */
+/* .parent-selector .child-selector {
+	background-color: green;
+	height: 100px;
+} */
+
+/* .parent-selector > .child-selector {
+	background-color: green;
+	height: 100px;
+} */
+
+/* .first-el ~ .second-el {
+	color: red;
+} */
+
+/* .first-el + .second-el {
+	color: green;
+} */
+
+/* input[type='text'] {
+	background-color: red;
+}
+
+input[type='number'] {
+	background-color: green;
+} */
+
+/* INHERITANCE */
+
+/* .parent {
+	color: red;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 600;
+
+	padding: 20px;
+	margin: 20px;
+} */
+
+/* SPECIFICITY */
+
+/* #h1 {
+	color: blue;
+}
+
+.h1 {
+	color: green;
+}
+
+h1 {
+	color: red;
+} */
+
+/* BOX MODEL */
+/* .box-model {
+	box-sizing: border-box;
+	width: 300px;
+	height: 300px;
+	background-color: red;
+	border: 10px solid green;
+	padding: 10px;
+	margin: 10px;
+} */
+
+/* POSITIONING */
+/* .position-relative-test {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	position: relative;
+}
+
+.parent-absolute {
+	position: relative;
+	width: 500px;
+	height: 500px;
+	background-color: red;
+}
+
+.child-absolute {
+	position: absolute;
+	top: 50px;
+	right: 50px;
+	background-color: green;
+}
+
+.parent-fixed {
+	margin-top: 100px;
+	position: relative;
+	width: 500px;
+	height: 500px;
+	background-color: red;
+}
+
+.child-fixed {
+	position: fixed;
+	top: 50px;
+	right: 50px;
+	background-color: green;
+}
+
+.parent-sticky {
+	margin-top: 100px;
+	position: relative;
+	width: 500px;
+	height: 2000px;
+	background-color: red;
+}
+
+.child-sticky {
+	position: sticky;
+	top: 0;
+	background-color: green;
+}
+*/
+
+/* z-index */
+/* .parent {
+	position: relative;
+	z-index: 1;
+	width: 200px;
+	height: 200px;
+	background-color: red;
+}
+
+.child-1 {
+	position: relative;
+	z-index: 5;
+	width: 100px;
+	height: 100px;
+	background-color: pink;
+	opacity: 0.5;
+}
+
+.child-2 {
+	position: relative;
+	z-index: 4;
+	width: 100px;
+	height: 100px;
+	top: -70px;
+	background-color: blue;
+	opacity: 0.8;
+}
+
+.child-3 {
+	position: relative;
+	z-index: 4;
+	width: 100px;
+	height: 100px;
+	top: -140px;
+	left: 40px;
+	background-color: black;
+} */
+
+/* RESPONSIVE AND ADAPTIVE */
+
+.adaptive {
+	width: 1200px;
+	height: 200px;
+	background: red;
+	margin: 100px auto;
+}
+
+@media (max-width: 1260px) {
+	.adaptive {
+		width: 800px;
+		height: 200px;
+	}
+}
+
+@media (max-width: 860px) {
+	.adaptive {
+		width: 600px;
+		height: 200px;
+	}
+}
+
+@media (max-width: 660px) {
+	.adaptive {
+		width: 360px;
+		height: 200px;
+	}
+}
+
+.responsive {
+	height: 200px;
+	background: green;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+/* FLEXBOX */
+
+.flex {
+	/* height: 1000px; */
+	display: flex;
+	gap: 20px;
+	flex-wrap: wrap;
+	/* height: 200px; */
+	/* flex-direction: row; */
+	/* flex-direction: column; */
+	/* justify-content: center; */
+	/* align-items: center; */
+}
+
+.flex__item {
+	width: 30%;
+	background: red;
+	height: 200px;
+}
+
+/* Height based on the most biggest item */
+.flex__item:first-child {
+	/* height: 200px; */
+}
+
+/* GRID */
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 200px 200px 200px;
+}
+
+.grid__item:nth-child(1) {
+	background-color: green;
+	grid-column: 1/3;
+}
+
+.grid__item:nth-child(2) {
+	background-color: yellow;
+	grid-column: 3;
+	grid-row: 1/3;
+}
+
+.grid__item:nth-child(3) {
+	background-color: blue;
+	grid-row: 2/4;
+	grid-column: 1;
+}
+
+.grid__item:nth-child(4) {
+	background-color: blueviolet;
+	grid-row: 2;
+	grid-column: 2;
+}
+
+.grid__item:nth-child(5) {
+	background-color: tomato;
+	grid-row: 3;
+	grid-column: 2/4;
+}

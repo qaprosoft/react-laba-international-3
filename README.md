@@ -38,7 +38,7 @@ Don't forget to invite your mentor(s) to your repository so they can access and 
 | April 2nd       | [Internet Basics](./lectures/01-basics/README.md) | [task 🔗](./lectures/01-basics/task.md)      |
 | April 5th       | [Git](./lectures/02-git/README.md)                | ---                                          |
 | April 9th       | [HTML](./lectures/03-html-basics/README.md)       | [task 🔗](./lectures/03-html-basics/task.md) |
-| April 12th      | CSS Part 1                                        |                                              |
+| April 12th      | [CSS Part 1](./lectures/04-css/README.md)         | [task 🔗](./lectures/04-css/task.md)         |
 | April 16th      | CSS Part 2                                        |                                              |
 | April 16th-19th | Learning week                                     | ---                                          |
 | April 22th-26th | First block exam                                  | ---                                          |
