@@ -49,3 +49,21 @@ You can invite them by going to your repository settings and adding them as coll
 | April 16th      | [CSS Part 2](./lectures/05-css-advanced/README.md) | [task 🔗](./lectures/05-css-advanced/task.md) |
 | April 16th-19th | Learning week                                      | ---                                           |
 | April 22th-26th | First block exam                                   | ---                                           |
+
+### Block 2
+
+| Day                | Theme                                                                                  | Homework                                                        |
+| :----------------- | :------------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
+| April 30th         | Javascript, Part 1                            |                   |
+| May 3rd            | Javascript, Part 2                            |                   |
+| May 7th            | Javascript, Part 3                            |                   |
+| May 10th           | Javascript, Part 4                            |                   |
+| May 14th           | Javascript, Part 5                            |                   |
+| May 17th           | Javascript, DOM                               |                   |
+| May 21th           | Data structures & algorithms                  |                   |
+| May 24th           | Environment                                   |                   |
+| May 28th           | Principles                                    |                   |
+| May 31th           | Typescript                                    |                   |
+| June 4th           | Patterns                                      |                   |
+| June 5th - 9th     | Learning week                                 |                   |
+| June 10th - 14th   | Second block exam                             |                   |
