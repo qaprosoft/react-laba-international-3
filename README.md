@@ -64,7 +64,7 @@ You can invite them by going to your repository settings and adding them as coll
 | May 24th           | Environment                                   |                   |
 | May 28th           | Principles                                    |                   |
 | May 31th           | Typescript basics                             |                   |
-| May 4th            | Typescript advanced                           |                   |
+| June 4th           | Typescript advanced                           |                   |
 | June 7th           | Patterns                                      |                   |
 | June 10th - 14th   | Learning week                                 |                   |
 | June 17th - 21th   | Second block exam                             |                   |
