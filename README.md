@@ -63,7 +63,8 @@ You can invite them by going to your repository settings and adding them as coll
 | May 21th           | Data structures & algorithms                  |                   |
 | May 24th           | Environment                                   |                   |
 | May 28th           | Principles                                    |                   |
-| May 31th           | Typescript                                    |                   |
-| June 4th           | Patterns                                      |                   |
-| June 5th - 9th     | Learning week                                 |                   |
-| June 10th - 14th   | Second block exam                             |                   |
+| May 31th           | Typescript basics                             |                   |
+| May 4th            | Typescript advanced                           |                   |
+| June 7th           | Patterns                                      |                   |
+| June 10th - 14th   | Learning week                                 |                   |
+| June 17th - 21th   | Second block exam                             |                   |
