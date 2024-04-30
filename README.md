@@ -54,7 +54,7 @@ You can invite them by going to your repository settings and adding them as coll
 
 | Day                | Theme                                                                                  | Homework                                                        |
 | :----------------- | :------------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
-| April 30th         | Javascript, Part 1                            |                   |
+| April 30th         | [Javascript, Part 1](./lectures/06-js-basics-1/README.md)|[task 🔗](./lectures/06-js-basics-1/task.md)|
 | May 3rd            | Javascript, Part 2                            |                   |
 | May 7th            | Javascript, Part 3                            |                   |
 | May 10th           | Javascript, Part 4                            |                   |
