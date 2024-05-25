@@ -53,7 +53,7 @@ You can invite them by going to your repository settings and adding them as coll
 ### Block 2
 
 | Day              | Theme                                                                                  | Homework                                                        |
-| :--------------- | :------------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
+| :--------------- | :------------------------------------------------------------------------------------- |:----------------------------------------------------------------|
 | April 30th       | [Javascript, Part 1](./lectures/06-js-basics-1/README.md)                              | [task 🔗](./lectures/06-js-basics-1/task.md)                    |
 | May 3rd          | [Javascript, Part 2](./lectures/07-js-basics-2/README.md)                              | [task 🔗](./lectures/07-js-basics-2/task.md)                    |
 | May 7th          | [Javascript, Part 3](./lectures/08-js-advanced-1/README.md)                            | [task 🔗](./lectures/08-js-advanced-1/task.md)                  |
@@ -61,7 +61,7 @@ You can invite them by going to your repository settings and adding them as coll
 | May 14th         | [Javascript, Part 5](./lectures/10-js-advanced-3/README.md)                            | [task 🔗](./lectures/10-js-advanced-3/task.md)                  |
 | May 17th         | [Javascript, DOM](./lectures/11-js-dom/README.md)                                      | [task 🔗](./lectures/11-js-dom/task.md)                         |
 | May 21th         | [Data structures & algorithms](./lectures/12-data-structures-and-algorithms/README.md) | [task 🔗](./lectures/12-data-structures-and-algorithms/task.md) |
-| May 24th         | Environment                                                                            |                                                                 |
+| May 24th         | [Environment](./lectures/13-environment-and-preprocessors/README.md)                   | [task 🔗](./lectures/13-environment-and-preprocessors/task.md)  |
 | May 28th         | Principles                                                                             |                                                                 |
 | May 31th         | Typescript basics                                                                      |                                                                 |
 | June 4th         | Typescript advanced                                                                    |                                                                 |
