@@ -63,7 +63,7 @@ You can invite them by going to your repository settings and adding them as coll
 | May 21th         | [Data structures & algorithms](./lectures/12-data-structures-and-algorithms/README.md) | [task 🔗](./lectures/12-data-structures-and-algorithms/task.md) |
 | May 24th         | [Environment](./lectures/13-environment-and-preprocessors/README.md)                   | [task 🔗](./lectures/13-environment-and-preprocessors/task.md)  |
 | May 28th         | [Principles](./lectures/14-principles/README.md)                                       | no task for this lecture                                        |
-| May 31th         | Typescript basics                                                                      |                                                                 |
+| May 31th         | [Typescript basics](./lectures/15-typescript-basics/README.md)                         | no task for this lecture                                        |
 | June 4th         | Typescript advanced                                                                    |                                                                 |
 | June 7th         | Patterns                                                                               |                                                                 |
 | June 10th - 14th | Learning week                                                                          |                                                                 |
