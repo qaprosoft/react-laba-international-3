@@ -53,7 +53,7 @@ You can invite them by going to your repository settings and adding them as coll
 ### Block 2
 
 | Day              | Theme                                                                                  | Homework                                                        |
-| :--------------- |:---------------------------------------------------------------------------------------|:----------------------------------------------------------------|
+| :--------------- | :------------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
 | April 30th       | [Javascript, Part 1](./lectures/06-js-basics-1/README.md)                              | [task 🔗](./lectures/06-js-basics-1/task.md)                    |
 | May 3rd          | [Javascript, Part 2](./lectures/07-js-basics-2/README.md)                              | [task 🔗](./lectures/07-js-basics-2/task.md)                    |
 | May 7th          | [Javascript, Part 3](./lectures/08-js-advanced-1/README.md)                            | [task 🔗](./lectures/08-js-advanced-1/task.md)                  |
@@ -65,6 +65,6 @@ You can invite them by going to your repository settings and adding them as coll
 | May 28th         | [Principles](./lectures/14-principles/README.md)                                       | no task for this lecture                                        |
 | May 31th         | [Typescript basics](./lectures/15-typescript-basics/README.md)                         | no task for this lecture                                        |
 | June 4th         | [Typescript advanced](./lectures/16-typescript-advanced/README.md)                     | [task 🔗](./lectures/16-typescript-advanced/task.md)            |
-| June 7th         | Patterns                                                                               |                                                                 |
+| June 7th         | [Patterns](./lectures/17-patterns/)                                                    | no task for this lecture                                        |
 | June 10th - 14th | Learning week                                                                          |                                                                 |
 | June 17th - 21th | Second block exam                                                                      |                                                                 |
