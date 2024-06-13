@@ -4,7 +4,7 @@ Here's you can find materials about JS DOM
 
 [Presentation](https://drive.google.com/file/d/1T-r_tT1Qf_XAUfCNWR-xGilqXYx5F8fW/view)
 
-[Video](https://drive.google.com/file/d/1IkAafrI8qDEqVagfXNmL8a2kkX5Ales2/view?usp=sharing)
+[Video](https://docs.google.com/presentation/d/16moHfPtFLi8HLBHrQMKIDq75TXSSQv3NELuXkMg_wXc/edit#slide=id.p1)
 
 Useful links
 
