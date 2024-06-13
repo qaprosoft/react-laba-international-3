@@ -2,9 +2,9 @@
 
 Here's you can find materials about JS DOM
 
-[Presentation](https://drive.google.com/file/d/1T-r_tT1Qf_XAUfCNWR-xGilqXYx5F8fW/view)
+[Presentation](https://docs.google.com/presentation/d/16moHfPtFLi8HLBHrQMKIDq75TXSSQv3NELuXkMg_wXc/edit#slide=id.p1)
 
-[Video](https://docs.google.com/presentation/d/16moHfPtFLi8HLBHrQMKIDq75TXSSQv3NELuXkMg_wXc/edit#slide=id.p1)
+[Video](https://drive.google.com/file/d/1T-r_tT1Qf_XAUfCNWR-xGilqXYx5F8fW/view)
 
 Useful links
 
