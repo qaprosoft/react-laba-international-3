@@ -68,3 +68,21 @@ You can invite them by going to your repository settings and adding them as coll
 | June 7th         | [Patterns](./lectures/17-patterns/)                                                    | no task for this lecture                                        |
 | June 10th - 14th | Learning week                                                                          |                                                                 |
 | June 17th - 21th | Second block exam                                                                      |                                                                 |
+
+### Block 3
+
+| Day                   | Theme                                                                                  | Homework                                      |
+| :-------------------- | :------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| July 2nd              | Overview of React library. React basics                                                |                                               |
+| July 5th              | React UI. Managing State.                                                              |                                               |
+| July 9th              | Overview of Hooks                                                                      |                                               |
+| July 12th             | React API                                                                              |                                               |
+| July 16th             | Overview of web application, key points. Next.js.                                      |                                               |
+| July 19th             | Next.js. Key features.                                                                 |                                               |
+| July 23th             | Next.js. App Router.                                                                   |                                               |
+| July 26th             | Testing                                                                                |                                               |
+| July 30th             | React State Management Workshop.                                                       |                                               |
+| August 2nd            | UI Libraries Workshop.                                                                 |                                               |
+| August 5th - 9th      | Learning weeks. Finishing homeworks/preparing for exam.                                |                                               |
+| August 12th - 16th    | Third block exam.                                                                      |                                               |
+                                   
