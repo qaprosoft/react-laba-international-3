@@ -76,7 +76,7 @@ You can invite them by going to your repository settings and adding them as coll
 | July 2nd           | [Overview of React library. React basics](./lectures/18-react-basics/README.md) | [task 🔗](./lectures/18-react-basics/task.md) |
 | July 5th           | [React UI. Managing State.](./lectures/19-react-ui/README.md)                   | [task 🔗](./lectures/19-react-ui/task.md)     |
 | July 9th           | [Overview of Hooks](./lectures/20-react-hooks/README.md)                        | [task 🔗](./lectures/20-react-hooks/task.md)  |
-| July 12th          | React API                                                                       |                                               |
+| July 12th          | [React API](./lectures/21-react-api/README.md)                                  | [task 🔗](./lectures/21-react-api/task.md)    |
 | July 16th          | Overview of web application, key points. Next.js.                               |                                               |
 | July 19th          | Next.js. Key features.                                                          |                                               |
 | July 23th          | Next.js. App Router.                                                            |                                               |
