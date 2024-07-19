@@ -8,5 +8,5 @@ Here's you can find materials about "Next.js. Key Features."
 
 Useful links
 
-- [Key features](https://nextjs.org/docs/app/building-your-application)
+- [Key features](https://nextjs.org/docs/pages/building-your-application)
 - [Next.js Examples](https://github.com/vercel/next.js/tree/canary/examples)
