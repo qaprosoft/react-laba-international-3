@@ -71,17 +71,17 @@ You can invite them by going to your repository settings and adding them as coll
 
 ### Block 3
 
-| Day                | Theme                                                                                | Homework                                      |
-| :----------------- |:-------------------------------------------------------------------------------------|:----------------------------------------------|
-| July 2nd           | [Overview of React library. React basics](./lectures/18-react-basics/README.md)      | [task 🔗](./lectures/18-react-basics/task.md) |
-| July 5th           | [React UI. Managing State.](./lectures/19-react-ui/README.md)                        | [task 🔗](./lectures/19-react-ui/task.md)     |
-| July 9th           | [Overview of Hooks](./lectures/20-react-hooks/README.md)                             | [task 🔗](./lectures/20-react-hooks/task.md)  |
-| July 12th          | [React API](./lectures/21-react-api/README.md)                                       | [task 🔗](./lectures/21-react-api/task.md)    |
-| July 16th          | [Overview of web application, key points. Next.js](./lectures/22-nextjs-1/README.md) | [task 🔗](./lectures/22-nextjs-1/task.md)     |
-| July 19th          | [Next.js. Key features.](./lectures/23-next-js-2/README.md)                          | no task for this lecture                      |
-| July 23th          | [Next.js. App Router.](./lectures/24-next-js-3/README.md)                            | no task for this lecture                      |
-| July 26th          | [Testing](./lectures/25-testing/README.md)                                           | [task 🔗](./lectures/25-testing/task.md)      |
-| July 30th          | React State Management Workshop.                                                     |                                               |
-| August 2nd         | UI Libraries Workshop.                                                               |                                               |
-| August 5th - 9th   | Learning weeks. Finishing homeworks/preparing for exam.                              |                                               |
-| August 12th - 16th | Third block exam.                                                                    |                                               |
+| Day                | Theme                                                                                | Homework                                                                       |
+| :----------------- |:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------|
+| July 2nd           | [Overview of React library. React basics](./lectures/18-react-basics/README.md)      | [task 🔗](./lectures/18-react-basics/task.md)                                  |
+| July 5th           | [React UI. Managing State.](./lectures/19-react-ui/README.md)                        | [task 🔗](./lectures/19-react-ui/task.md)                                      |
+| July 9th           | [Overview of Hooks](./lectures/20-react-hooks/README.md)                             | [task 🔗](./lectures/20-react-hooks/task.md)                                   |
+| July 12th          | [React API](./lectures/21-react-api/README.md)                                       | [task 🔗](./lectures/21-react-api/task.md)                                     |
+| July 16th          | [Overview of web application, key points. Next.js](./lectures/22-nextjs-1/README.md) | [task 🔗](./lectures/22-nextjs-1/task.md)                                      |
+| July 19th          | [Next.js. Key features.](./lectures/23-next-js-2/README.md)                          | no task for this lecture                                                       |
+| July 23th          | [Next.js. App Router.](./lectures/24-next-js-3/README.md)                            | no task for this lecture                                                       |
+| July 26th          | [Testing](./lectures/25-testing/README.md)                                           | [task 🔗](./lectures/25-testing/task.md)                                       |
+| July 30th          | [React State Management Workshop.](./lectures/react-state-management/README.md)      | no task for this lecture                                                       |
+| August 2nd         | UI Libraries Workshop.                                                               |                                                                                |
+| August 5th - 9th   | Learning weeks. Finishing homeworks/preparing for exam.                              |                                                                                |
+| August 12th - 16th | Third block exam.                                                                    |                                                                                |
