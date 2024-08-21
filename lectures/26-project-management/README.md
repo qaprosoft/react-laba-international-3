@@ -1,4 +1,4 @@
-# Testing
+# Project management basics for developers
 
 Here's you can find materials about "Project management basics for developers"
 
