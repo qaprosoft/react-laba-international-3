@@ -8,11 +8,9 @@
 - [MUI](https://mui.com)
 - [React Query](https://tanstack.com/query/latest/docs/framework/react/overview)
 - [NextAuth.js](https://next-auth.js.org)
+- [Typescript](https://www.typescriptlang.org)
 - All other technologies you can decide with the team.
 
-**Optional libraries to use:**
-
-- [Typescript](https://www.typescriptlang.org)
 
 # Teams
 
