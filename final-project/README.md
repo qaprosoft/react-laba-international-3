@@ -22,7 +22,7 @@
 - Szymon Wos
 - Vladyslav Kovalchuk
 
-**Team 2**
+**Team 2** - [repository](https://github.com/FacuReartes/react-laba-final-project-team-2)
 
 - Facundo Reartes - team lead
 - Lucas Montecino
