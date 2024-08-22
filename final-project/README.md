@@ -38,7 +38,7 @@
 - Wiktoria Czech
 - Oleksandr Shevchenko
 
-**Team 4**
+**Team 4** - [repositoru](https://github.com/AlexMaderaP/shoe-shop-team-4)
 
 - Alejandro Madera - team lead
 - Ramon Marino
