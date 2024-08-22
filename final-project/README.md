@@ -30,7 +30,7 @@
 - Marcos Abreu da Silva
 - Daniel Gonzalez
 
-**Team 3**
+**Team 3** - [repository](https://github.com/dazby0/solvd-shoes-shop-team3)
 
 - Wojciech Kowalczyk - team lead
 - Kostiantyn Sukhykh
