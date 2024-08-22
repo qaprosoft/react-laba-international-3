@@ -14,7 +14,7 @@
 
 # Teams
 
-**Team 1**
+**Team 1** - [repository](https://github.com/ATErcan/solvd-team-1-final-project)
 
 - Ahmet Ercan - team lead
 - Wojciech Maslowski
@@ -46,7 +46,7 @@
 - Monica Guantay
 - Braian Carabajal
 
-**Team 5**
+**Team 5** - [repository](https://github.com/mnadolny8991/shoes-shop-team-5)
 
 - Michal Nadolny - team lead
 - Volodymyr Kurtyak
