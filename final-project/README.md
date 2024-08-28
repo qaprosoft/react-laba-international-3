@@ -2,6 +2,8 @@
 
 [Project Description](https://docs.google.com/document/d/1hWaI-AbNFtoNsD9knR1HGoMwG7cJfC6K5o3ULhW087Q/edit?usp=sharing)
 
+[Final project presentation template](https://docs.google.com/document/d/1KtnwkZ2UsxpzQPrigS-4Ke0stSu-ooGxjPlzxu7syQs/edit?usp=sharing)
+
 **Required libraries to use:**
 
 - [NEXT.JS](https://nextjs.org) - APP ROUTER.
@@ -10,7 +12,6 @@
 - [NextAuth.js](https://next-auth.js.org)
 - [Typescript](https://www.typescriptlang.org)
 - All other technologies you can decide with the team.
-
 
 # Teams
 

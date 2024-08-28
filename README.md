@@ -86,12 +86,11 @@ You can invite them by going to your repository settings and adding them as coll
 | August 5th - 9th   | Learning weeks. Finishing homeworks/preparing for exam.                                   |                                               |
 | August 12th - 16th | Third block exam.                                                                         |                                               |
 
-
 ### Block 4
 
-| Day                            | Theme                                                                                     | Homework                                      |
-| :----------------------------- | :---------------------------------------------------------------------------------------- | :-------------------------------------------- |
-| August 20th                    | [Project management basics](./lectures/26-project-management/README.md)                   | no task for this lecture                      |
-| August 21th - September 27th   | Project development                                                                       |                                               |
-| September 30th - October 4th   | Project demos                                                                             |                                               |
-| October 7th - 11th             | Final interviews                                                                          |                                               |
+| Day                          | Theme                                                                   | Homework                 |
+| :--------------------------- | :---------------------------------------------------------------------- | :----------------------- |
+| August 20th                  | [Project management basics](./lectures/26-project-management/README.md) | no task for this lecture |
+| August 21th - September 27th | [Project development](./final-project/README.md)                        |                          |
+| September 30th - October 4th | Project demos                                                           |                          |
+| October 7th - 11th           | Final interviews                                                        |                          |
